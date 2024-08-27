@@ -16,13 +16,7 @@
   
 </div>
 
-### GameEngine
-<div>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unreal_Engine-000000?style=flat-square&logo=unrealengine&logoColor=white"/>
-</div>
-
-### ETC
+### EXP
 <div>
 <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white"/>
